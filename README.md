@@ -1,4 +1,5 @@
-**********      ABOUT THE PROJECT     **********
+**********     		ABOUT THE PROJECT     			**********
+
 This project is all about how to analyse Big Data. The project has been subdivided into three categories namely :
 1. Data Gathering : It deals with how to collect the data .
 2. Data Analysis  : It deals about analysing the data fetched.
