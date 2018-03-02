@@ -1,0 +1,11 @@
+Exercise 2.7			DATA DISTRIBUTION KIND
+
+Problem Statement :
+
+The data you just plotted is in what kind of distribution? Is there a difference in distribution between rainy and non-rainy days?
+
+
+Solution :
+
+The data plotted in the above histogram is in Skewed Distribution(Asymmetrical,outcome is more on one side).To be more specific it is a Right-Skewed Distribution. Although both the distributions are right-skewed,we can spot a difference in the distribution between rainy and non-rainy days. The number of ENTRIESn_hourly is less on rainy days as compared to that in rainy days.
+
