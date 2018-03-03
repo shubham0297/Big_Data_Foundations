@@ -47,7 +47,7 @@ The .py (Python) file in each of the exercise in the given project contains 3 th
 1.	Problem Statement 	: 	It is the complete description of problem. It explains what we have to do in the exercise .
 2.	Solution			      :		It is the code written in PYTHON version 3 . ( It will compile and give desired output only if you are 
                             working in environment running  on Python 3. Other it may give syntax error or undesired result  )
-3.	Key Points		    	:		These are the points that will help you to understand the working of the solution.
+3.	Key Points		    	:		THESE POINTS MUST BE READ IN ORDER FOR THE CODE TO RUN WITHOUT SYNTAX ERROR. These are the points that will help you to understand the working of the solution.
 							            	They contain the information about the syntax or functions used in the program.
 								            Also they contain some NOTES. 	Points containing a NOTE  must be read properly. 
 
